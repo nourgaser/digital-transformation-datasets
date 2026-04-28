@@ -1,0 +1,7 @@
+channel_id,channel_name,channel_category
+CH01,Website,Online
+CH02,Mobile App,Online
+CH03,Station Counter,Offline
+CH04,Fawry,Offline
+CH05,Aman,Offline
+CH06,Vending Machine,Offline

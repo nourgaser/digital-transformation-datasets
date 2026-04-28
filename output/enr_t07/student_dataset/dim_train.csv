@@ -1,0 +1,11 @@
+train_id,train_name,train_type,first_class_capacity,second_class_capacity,third_class_capacity,total_capacity
+T01,Express 901,Spanish Express,40,80,0,120
+T02,Express 902,Spanish Express,40,80,0,120
+T03,Talgo 801,Talgo,30,120,0,150
+T04,Talgo 802,Talgo,30,120,0,150
+T05,AC Train 501,Air-Conditioned,40,100,120,260
+T06,AC Train 502,Air-Conditioned,40,100,120,260
+T07,AC Train 503,Air-Conditioned,40,100,120,260
+T08,Standard 301, Standard,0,80,200,280
+T09,Standard 302, Standard,0,80,200,280
+T10,Standard 303,Standard,0,80,200,280

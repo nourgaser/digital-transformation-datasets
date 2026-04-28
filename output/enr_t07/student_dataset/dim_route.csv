@@ -1,0 +1,16 @@
+route_id,origin_city,destination_city,distance_km,region,is_express,estimated_duration_hrs
+R01,Cairo,Alexandria,208,Delta,True,2.3
+R02,Cairo,Luxor,671,Upper Egypt,True,7.5
+R03,Cairo,Aswan,878,Upper Egypt,True,9.8
+R04,Cairo,Port Said,220,canal zone,False,3.1
+R05,Cairo,Suez,134,canal zone,False,1.9
+R06,Cairo,Mansoura,120,Delta,False,1.7
+R07,Cairo,Tanta,94,Delta,False,1.3
+R08,Cairo,Minya,245,Upper Egypt,False,3.5
+R09,Cairo,Asyut,375,Upper Egypt,False,5.4
+R10,Cairo,Sohag,467,Upper Egypt,False,6.7
+R11,Alexandria,Luxor,879,Upper Egypt,True,9.8
+R12,Alexandria,Aswan,1086,Upper Egypt,True,12.1
+R13,Cairo,Damanhur,170,Delta,False,2.4
+R14,Cairo,Beni Suef,130,Upper Egypt,False,1.9
+R15,Alexandria,Port Said,290,Delta,False,4.1
