@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_type
+CH01,In-Branch,Physical
+CH02,ATM,Physical
+CH03,Mobile App,Digital
+CH04,Internet Banking,Digital
+CH05,Call Center,Digital

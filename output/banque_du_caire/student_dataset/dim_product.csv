@@ -1,0 +1,16 @@
+product_id,product_name,product_type,target_segment
+P01,Personal Loan,Loan,Retail
+P02,Car Loan,Loan,Retail
+P03,Mortgage Loan,Loan,Retail
+P04,SME Business Loan,Loan,SME
+P05,Corporate Credit Line,Loan,Corporate
+P06,Credit Card - Classic,Credit Card,Retail
+P07,Credit Card - Gold,Credit Card,Premium
+P08,Credit Card - Platinum,Credit Card,Premium
+P09,Savings Account,Deposit,Retail
+P10,Current Account,Deposit,Retail
+P11,Fixed Deposit,Deposit,Premium
+P12,Mobile Banking,Digital,Retail
+P13,Internet Banking,Digital,Retail
+P14,Digital Wallet,Digital,Retail
+P15,Trade Finance,Trade Finance,Corporate

@@ -1,0 +1,16 @@
+branch_id,branch_name,governorate,region,branch_tier
+BR01,Downtown Cairo,Cairo,Greater Cairo,Tier 1
+BR02,Heliopolis,Cairo,Greater Cairo,Tier 1
+BR03,Maadi,Cairo,Greater Cairo,Tier 1
+BR04,Nasr City,Cairo,Greater Cairo,Tier 1
+BR05,6th of October,Giza,Greater Cairo,Tier 2
+BR06,Dokki,Giza,Greater Cairo,Tier 2
+BR07,Alexandria Main,Alexandria,Alexandria,Tier 1
+BR08,Smouha,Alexandria,Alexandria,Tier 2
+BR09,Mansoura,Dakahlia,Delta,Tier 2
+BR10,Tanta,Gharbia,Delta,Tier 2
+BR11,Luxor,Luxor,Upper Egypt,Tier 3 
+BR12,Aswan,Aswan,Upper Egypt,Tier 3 
+BR13,Asyut,Asyut,Upper Egypt,Tier 3 
+BR14,Port Said,Port Said,Canal Zone,Tier 2
+BR15,Suez,Suez,Canal Zone,Tier 2
