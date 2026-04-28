@@ -1,0 +1,13 @@
+branch_id,branch_name,governorate,region
+BR01,Cairo HQ,Cairo,Greater Cairo
+BR02,Heliopolis,Cairo,Greater Cairo
+BR03,Giza,Giza,Greater Cairo
+BR04,Alexandria,Alexandria,Alexandria
+BR05,Mansoura,Dakahlia,Delta
+BR06,Tanta,Gharbia,Delta
+BR07,Luxor,Luxor,Upper Egypt 
+BR08,Aswan,Aswan,Upper Egypt 
+BR09,Suez,Suez,Canal Zone
+BR10,Port Said,Port Said,Canal Zone
+BR11,Asyut,Asyut,Upper Egypt 
+BR12,Ismailia,Ismailia,Canal Zone

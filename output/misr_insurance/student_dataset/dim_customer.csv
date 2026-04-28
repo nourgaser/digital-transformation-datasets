@@ -1,0 +1,181 @@
+customer_id,customer_name,customer_type,age,gender,governorate,region,home_branch_id,is_returning
+CUS0001,Allison Hill,Individual,24.0,Male,Dakahlia,Delta,BR11,True
+CUS0002,Noah Rhodes,Individual,50.0,Female,Cairo,Greater Cairo,BR05,True
+CUS0003,Angie Henderson,Individual,46.0,Male,Aswan,Upper Egypt,BR11,False
+CUS0004,Daniel Wagner,Individual,53.0,Male,Aswan,Upper Egypt,BR01,True
+CUS0005,Cristian Santos,Individual,45.0,Male,Port Said,Canal Zone,BR04,True
+CUS0006,Connie Lawrence,Individual,69.0,Male,Cairo,Greater Cairo,BR07,True
+CUS0007,Abigail Shaffer,Individual,29.0,Male,Cairo,Greater Cairo,BR04,True
+CUS0008,Gina Moore,Individual,64.0,Female,Cairo,Greater Cairo,BR08,True
+CUS0009,Gabrielle Davis,Individual,23.0,Female,Dakahlia,Delta,BR10,False
+CUS0010,Ryan Munoz,Individual,56.0,Male,Giza,Greater Cairo,BR12,False
+CUS0011,Monica Herrera,Individual,36.0,Male,Luxor,Upper Egypt,BR10,False
+CUS0012,Jamie Arnold,Individual,22.0,Female,Dakahlia,Delta,BR02,True
+CUS0013,Lisa Hensley,Individual,53.0,Male,Port Said,Canal Zone,BR09,False
+CUS0014,Michele Williams,Individual,23.0,Female,Giza,Greater Cairo,BR11,True
+CUS0015,Dylan Miller,Individual,49.0,Female,Dakahlia,Delta,BR03,True
+CUS0016,Brian Ramirez,Individual,23.0,Female,Giza,Greater Cairo,BR02,False
+CUS0017,Holly Wood,Individual,38.0,Male,Asyut,Upper Egypt,BR05,False
+CUS0018,Derek Zuniga,Individual,49.0,Male,Ismailia,Canal Zone,BR11,False
+CUS0019,Lisa Jackson,Individual,66.0,Female,Suez,Canal Zone,BR06,True
+CUS0020,Carla Gray,individual,62.0,Female,Dakahlia,Delta,BR03,False
+CUS0021,Margaret Hawkins DDS,Individual,46.0,Female,Cairo,Greater Cairo,BR04,True
+CUS0022,Patty Perez,Individual,49.0,Male,Gharbia,Delta,BR01,True
+CUS0023,Ethan Adams,Individual,31.0,Male,Giza,Greater Cairo,BR10,False
+CUS0024,Tommy Walter,Individual,58.0,Male,Cairo,Greater Cairo,BR07,False
+CUS0025,Matthew Foster,Individual,43.0,Male,Asyut,Upper Egypt,BR03,True
+CUS0026,Judy Baker,Individual,47.0,Female,Giza,Greater Cairo,BR08,False
+CUS0027,Justin Baker,Individual,44.0,Female,Gharbia,Delta,BR05,True
+CUS0028,Stephanie Ross,Individual,54.0,Female,Asyut,Upper Egypt,BR04,True
+CUS0029,Zachary Hicks,Individual,30.0,Female,Dakahlia,Delta,BR08,False
+CUS0030,Anthony Rodriguez,Individual,69.0,Male,Gharbia,Delta,BR03,False
+CUS0031,Rebecca Henderson,Individual,41.0,Male,Luxor,Upper Egypt,BR10,True
+CUS0032,James Ferrell,Individual,47.0,Male,Asyut,Upper Egypt,BR12,True
+CUS0033,Tricia Valencia,Individual,36.0,Female,Dakahlia,Delta,BR01,True
+CUS0034,Nathan Maldonado,Individual,29.0,Male,Asyut,Upper Egypt,BR11,False
+CUS0035,Debra Davidson,Individual,53.0,Male,Alexandria,Alexandria,BR02,True
+CUS0036,Jeffrey Chavez,Individual,56.0,Male,Aswan,Upper Egypt,BR10,False
+CUS0037,Sherri Baker,Individual,46.0,Female,Cairo,Greater Cairo,BR11,True
+CUS0038,Cassandra Gaines,Individual,66.0,Male,Gharbia,Delta,BR01,False
+CUS0039,Elizabeth Fowler,Individual,29.0,Female,Asyut,Upper Egypt,BR07,True
+CUS0040,Brittany Farmer,Individual,61.0,Female,Ismailia,Canal Zone,BR08,True
+CUS0041,Paula Moreno,Individual,52.0,Female,Gharbia,Delta,BR12,True
+CUS0042,Fred Smith,Individual,42.0,Male,Asyut,Upper Egypt,BR02,True
+CUS0043,Sherry Decker,individual,50.0,Female,Aswan,Upper Egypt,BR03,False
+CUS0044,Anthony Humphrey,Individual,24.0,Female,Port Said,Canal Zone,BR03,False
+CUS0045,Angelica Tucker,Individual,69.0,Female,Alexandria,Alexandria,BR10,True
+CUS0046,Philip Cannon,Individual,28.0,Male,Suez,Canal Zone,BR10,True
+CUS0047,John Pierce,Individual,52.0,Male,Gharbia,Delta,BR02,False
+CUS0048,Shane Henderson,Individual,30.0,Male,Luxor,Upper Egypt,BR07,True
+CUS0049,Joshua Blair,Individual,69.0,Male,Alexandria,Alexandria,BR07,False
+CUS0050,Eric Carney,Individual,44.0,Female,Giza,Greater Cairo,BR12,True
+CUS0051,Jessica Holmes,Individual,32.0,Female,Giza,Greater Cairo,BR10,True
+CUS0052,Danny Morgan,Individual,29.0,Female,Dakahlia,Delta,BR12,True
+CUS0053,Crystal Robinson,Individual,62.0,Male,Ismailia,Canal Zone,BR10,False
+CUS0054,Mark Perez,Individual,58.0,Male,Alexandria,Alexandria,BR10,False
+CUS0055,Shannon Jones,Individual,52.0,Female,Suez,Canal Zone,BR05,False
+CUS0056,Michael Lewis,Individual,53.0,Female,Asyut,Upper Egypt,BR10,True
+CUS0057,Timothy Duncan,Individual,35.0,Female,Cairo,Greater Cairo,BR11,True
+CUS0058,Richard Aguirre,Individual,47.0,Male,Gharbia,Delta,BR04,False
+CUS0059,Brent Jordan,Individual,52.0,Female,Gharbia,Delta,BR06,False
+CUS0060,John Daniel,Individual,27.0,Male,Gharbia,Delta,BR07,True
+CUS0061,Victoria Garcia,Individual,42.0,Male,Suez,Canal Zone,BR05,False
+CUS0062,Gerald Hensley,Individual,54.0,Female,Asyut,Upper Egypt,BR10,False
+CUS0063,Connor West,Individual,64.0,Male,Giza,Greater Cairo,BR11,True
+CUS0064,Donald Wright,Individual,57.0,Male,Asyut,Upper Egypt,BR02,True
+CUS0065,Jessica Callahan,Individual,26.0,Male,Giza,Greater Cairo,BR07,True
+CUS0066,Amber Kidd,Individual,47.0,Female,Cairo,Greater Cairo,BR01,True
+CUS0067,Tracy House,Individual,53.0,Female,Alexandria,Alexandria,BR10,False
+CUS0068,Carol Tucker,Individual,22.0,Female,Aswan,Upper Egypt,BR10,True
+CUS0069,James Brown,Individual,35.0,Male,Aswan,Upper Egypt,BR12,False
+CUS0070,William Baker,Individual,42.0,Male,Port Said,Canal Zone,BR07,True
+CUS0071,Jordan Henderson,Individual,49.0,Female,Suez,Canal Zone,BR06,False
+CUS0072,Whitney Peters,Individual,42.0,Male,Cairo,Greater Cairo,BR04,True
+CUS0073,Brittney Phillips,Individual,36.0,Female,Gharbia,Delta,BR06,False
+CUS0074,Lauren Daniels,Individual,38.0,Male,Giza,Greater Cairo,BR03,True
+CUS0075,Amy Silva,Individual,66.0,Female,Cairo,Greater Cairo,BR07,False
+CUS0076,Sarah Moore,Individual,59.0,Male,Port Said,Canal Zone,BR12,False
+CUS0077,Angela Lopez,Individual,31.0,Female,Cairo,Greater Cairo,BR05,False
+CUS0078,Megan Young,Individual,67.0,Female,Luxor,Upper Egypt,BR08,True
+CUS0079,Steve Sanchez,individual,23.0,Female,Port Said,Canal Zone,BR09,True
+CUS0080,Lisa Barnes,Individual,51.0,Male,Alexandria,Alexandria,BR10,True
+CUS0081,Kelly Donovan,Individual,28.0,Male,Aswan,Upper Egypt,BR03,True
+CUS0082,Mike Allen,Individual,30.0,Male,Ismailia,Canal Zone,BR07,True
+CUS0083,Michael Evans,Individual,22.0,Male,Port Said,Canal Zone,BR10,True
+CUS0084,Paul Jones,Individual,24.0,Male,Gharbia,Delta,BR03,True
+CUS0085,Zachary Ferrell,Individual,33.0,Male,Ismailia,Canal Zone,BR06,False
+CUS0086,Daniel Baker,Individual,32.0,Male,Luxor,Upper Egypt,BR05,True
+CUS0087,Shirley Suarez,Individual,42.0,Female,Cairo,Greater Cairo,BR07,False
+CUS0088,Christopher Bass,Individual,42.0,Male,Port Said,Canal Zone,BR09,True
+CUS0089,Lisa Archer,Individual,35.0,Female,Alexandria,Alexandria,BR10,True
+CUS0090,Aimee Montoya,Individual,59.0,Female,Cairo,Greater Cairo,BR03,False
+CUS0091,Matthew Mcmillan,Individual,37.0,Male,Aswan,Upper Egypt,BR04,True
+CUS0092,Brian Rodriguez,Individual,44.0,Female,Gharbia,Delta,BR04,True
+CUS0093,Denise Jacobs,Individual,55.0,Female,Luxor,Upper Egypt,BR11,True
+CUS0094,Christina Walters,Individual,65.0,Male,Luxor,Upper Egypt,BR06,False
+CUS0095,John Whitehead,Individual,57.0,Male,Asyut,Upper Egypt,BR11,True
+CUS0096,Anna Henderson,Individual,28.0,Female,Aswan,Upper Egypt,BR12,False
+CUS0097,Aaron Wise,Individual,56.0,Male,Cairo,Greater Cairo,BR11,True
+CUS0098,Deborah Figueroa,Individual,43.0,Male,Suez,Canal Zone,BR08,True
+CUS0099,Jessica Smith,Individual,50.0,Male,Cairo,Greater Cairo,BR06,True
+CUS0100,Stephen Mckee,Individual,52.0,Female,Dakahlia,Delta,BR03,True
+CUS0101,Sandra Aguilar,Individual,26.0,Male,Port Said,Canal Zone,BR09,True
+CUS0102,Cameron Parker,Individual,24.0,Male,Ismailia,Canal Zone,BR01,True
+CUS0103,Rebecca Valencia,Individual,38.0,Male,Gharbia,Delta,BR12,False
+CUS0104,Christine Wright,Individual,48.0,Male,Suez,Canal Zone,BR01,True
+CUS0105,Richard Henson,Individual,58.0,Female,Cairo,Greater Cairo,BR10,True
+CUS0106,Marc Moore,Individual,51.0,Female,Ismailia,Canal Zone,BR05,False
+CUS0107,Sharon Cherry,Individual,64.0,Male,Gharbia,Delta,BR05,True
+CUS0108,Sierra Johnson,Individual,33.0,Female,Suez,Canal Zone,BR12,True
+CUS0109,Evelyn Galvan,Individual,38.0,Female,Port Said,Canal Zone,BR12,True
+CUS0110,Sharon Cochran,Individual,66.0,Female,Asyut,Upper Egypt,BR03,True
+CUS0111,Richard Rodriguez,Individual,55.0,Female,Giza,Greater Cairo,BR01,True
+CUS0112,Shannon Walker,Individual,46.0,Male,Port Said,Canal Zone,BR10,True
+CUS0113,Julia Torres,Individual,38.0,Male,Asyut,Upper Egypt,BR09,False
+CUS0114,Crystal Johnson,Individual,38.0,Male,Ismailia,Canal Zone,BR12,True
+CUS0115,Garrett Lin,Individual,23.0,Female,Gharbia,Delta,BR09,True
+CUS0116,Diana May,Individual,47.0,Male,Cairo,Greater Cairo,BR09,True
+CUS0117,William Herrera,Individual,55.0,Male,Asyut,Upper Egypt,BR09,False
+CUS0118,Ashley Waller,Individual,27.0,Male,Ismailia,Canal Zone,BR09,True
+CUS0119,Victor Baker,Individual,56.0,Male,Port Said,Canal Zone,BR06,True
+CUS0120,Jeffrey Chandler,Individual,40.0,Male,Cairo,Greater Cairo,BR04,True
+CUS0121,Larry Dixon,Individual,29.0,Male,Port Said,Canal Zone,BR09,False
+CUS0122,Kenneth Scott,Individual,66.0,Female,Ismailia,Canal Zone,BR06,False
+CUS0123,April Frost,Individual,61.0,Female,Dakahlia,Delta,BR03,False
+CUS0124,Michelle Harmon,Individual,37.0,Male,Dakahlia,Delta,BR09,False
+CUS0125,Helen Jones,Individual,69.0,Female,Port Said,Canal Zone,BR07,True
+CUS0126,"Mccall, Hanson and Alvarado",Corporate,,,Aswan,Upper Egypt,BR12,True
+CUS0127,Cortez LLC,Corporate,,,Suez,Canal Zone,BR01,False
+CUS0128,"Parker, Ortiz and Powell",Corporate,,,Alexandria,Alexandria,BR12,True
+CUS0129,Spencer-Lee,Corporate,,,Suez,Canal Zone,BR09,True
+CUS0130,"Bentley, Byrd and Orr",Corporate,,,Suez,Canal Zone,BR02,False
+CUS0131,"Carroll, Sullivan and Bass",Corporate,,,Alexandria,Alexandria,BR04,True
+CUS0132,Mitchell-Jordan,Corporate,,,Asyut,Upper Egypt,BR05,True
+CUS0133,"Lawson, Morris and Ramos",Corporate,,,Aswan,Upper Egypt,BR05,False
+CUS0134,"Lewis, Kennedy and Santana",Corporate,,,Cairo,Greater Cairo,BR10,False
+CUS0135,"Jackson, Miller and Robertson",Corporate,,,Aswan,Upper Egypt,BR05,True
+CUS0136,"Harvey, Davis and Crane",Corporate,,,Giza,Greater Cairo,BR01,True
+CUS0137,Chambers and Sons,Corporate,,,Alexandria,Alexandria,BR08,True
+CUS0138,Hernandez Inc,Corporate,,,Port Said,Canal Zone,BR01,False
+CUS0139,Riggs PLC,Corporate,,,Ismailia,Canal Zone,BR06,False
+CUS0140,Gibson Ltd,Corporate,,,Port Said,Canal Zone,BR02,False
+CUS0141,"Lee, Horton and Snyder",Corporate,,,Gharbia,Delta,BR07,True
+CUS0142,Hernandez Ltd,Corporate,,,Suez,Canal Zone,BR01,True
+CUS0143,Stafford Inc,Corporate,,,Giza,Greater Cairo,BR03,False
+CUS0144,Robinson-Brock,Corporate,,,Gharbia,Delta,BR05,False
+CUS0145,"Holmes, Williams and Wright",Corporate,,,Suez,Canal Zone,BR08,False
+CUS0146,Bryant Group,Corporate,,,Giza,Greater Cairo,BR10,False
+CUS0147,"Schmidt, Hansen and Stewart",Corporate,,,Giza,Greater Cairo,BR03,False
+CUS0148,Salazar-Ball,Corporate,,,Alexandria,Alexandria,BR07,True
+CUS0149,"Simmons, Meadows and Griffin",Corporate,,,Cairo,Greater Cairo,BR08,False
+CUS0150,Manning Group,Corporate,,,Cairo,Greater Cairo,BR05,True
+CUS0151,Green-Wright,Corporate,,,Cairo,Greater Cairo,BR03,False
+CUS0152,"Ramirez, Strickland and Washington",Corporate,,,Cairo,Greater Cairo,BR01,False
+CUS0153,Hill Inc,Corporate,,,Suez,Canal Zone,BR01,True
+CUS0154,"Mitchell, Nelson and Flores",corporate,,,Cairo,Greater Cairo,BR06,True
+CUS0155,"Miller, Hernandez and Reyes",Corporate,,,Alexandria,Alexandria,BR10,True
+CUS0156,Mccarthy Inc,Corporate,,,Dakahlia,Delta,BR07,True
+CUS0157,Russell-Daniels,Corporate,,,Ismailia,Canal Zone,BR06,True
+CUS0158,Brown-Wall,Corporate,,,Aswan,Upper Egypt,BR02,False
+CUS0159,Stein-Silva,Corporate,,,Gharbia,Delta,BR12,False
+CUS0160,"Smith, Gilmore and Johnston",Corporate,,,Aswan,Upper Egypt,BR01,True
+CUS0161,Smith-Bell,Corporate,,,Ismailia,Canal Zone,BR12,False
+CUS0162,Castaneda-Ashley,Corporate,,,Aswan,Upper Egypt,BR09,True
+CUS0163,Medina-Navarro,Corporate,,,Dakahlia,Delta,BR04,True
+CUS0164,"Hurst, Freeman and Nelson",Corporate,,,Port Said,Canal Zone,BR02,False
+CUS0165,Johnson-Rogers,Corporate,,,Gharbia,Delta,BR12,False
+CUS0166,"Yates, Ramsey and Pittman",Corporate,,,Alexandria,Alexandria,BR07,True
+CUS0167,Hooper PLC,Corporate,,,Giza,Greater Cairo,BR07,True
+CUS0168,Meadows PLC,Corporate,,,Alexandria,Alexandria,BR09,True
+CUS0169,"Alvarado, Miller and Patterson",Corporate,,,Cairo,Greater Cairo,BR01,True
+CUS0170,White-Green,Corporate,,,Dakahlia,Delta,BR05,False
+CUS0171,Lewis-Murphy,Corporate,,,Ismailia,Canal Zone,BR02,False
+CUS0172,Ramirez-Bean,Corporate,,,Aswan,Upper Egypt,BR07,True
+CUS0173,King-Miller,Corporate,,,Cairo,Greater Cairo,BR01,False
+CUS0174,Curry Inc,Corporate,,,Asyut,Upper Egypt,BR02,True
+CUS0175,Walker-Jones,Corporate,,,Luxor,Upper Egypt,BR11,True
+CUS0176,"Williams, Johnson and Wright",Corporate,,,Asyut,Upper Egypt,BR02,True
+CUS0177,Howell and Sons,Corporate,,,Port Said,Canal Zone,BR11,True
+CUS0178,Wells Inc,Corporate,,,Aswan,Upper Egypt,BR12,False
+CUS0179,"Gould, Marshall and Scott",Corporate,,,Alexandria,Alexandria,BR02,False
+CUS0180,Jackson-Lawson,Corporate,,,Cairo,Greater Cairo,BR09,True

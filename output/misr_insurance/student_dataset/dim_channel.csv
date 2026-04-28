@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_type
+CH01,Branch,Offline
+CH02,Agent,Offline
+CH03,Broker,Offline
+CH04,Online,Digital
+CH05,Call Center,Digital
