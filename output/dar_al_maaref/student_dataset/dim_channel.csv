@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_type
+CH01,Online Store,Direct - B2C
+CH02,Retail Bookstore,Direct - B2C
+CH03,School Contract,B2B
+CH04,Library Contract,B2B
+CH05,Distributor Order,B2B

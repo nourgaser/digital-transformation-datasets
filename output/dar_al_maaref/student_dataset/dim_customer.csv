@@ -1,0 +1,111 @@
+customer_id,customer_name,customer_type,governorate,region
+C0001,Allison Hill,Individual,Damanhur,Delta
+C0002,Noah Rhodes,Individual,Minya,Upper Egypt
+C0003,Angie Henderson,Individual,Aswan,Upper Egypt
+C0004,Daniel Wagner,Individual,Asyut,Upper Egypt
+C0005,Cristian Santos,Individual ,Suez,Canal Zone
+C0006,Connie Lawrence,Individual,Port Said,Canal Zone
+C0007,Abigail Shaffer,Individual,Beni Suef,Upper Egypt
+C0008,Gina Moore,Individual,Cairo,Greater Cairo & Alex
+C0009,Gabrielle Davis,Individual,Mansoura,Delta
+C0010,Ryan Munoz,Individual,Asyut,Upper Egypt
+C0011,Monica Herrera,Individual ,Aswan,Upper Egypt
+C0012,Jamie Arnold,Individual,Damanhur,Delta
+C0013,Lisa Hensley,Individual,Ismailia,Canal Zone
+C0014,Michele Williams,Individual,Tanta,Delta
+C0015,Dylan Miller,Individual,Giza,Greater Cairo & Alex
+C0016,Brian Ramirez,Individual,Cairo,Greater Cairo & Alex
+C0017,Holly Wood,Individual,Aswan,Upper Egypt
+C0018,Derek Zuniga,Individual,Aswan,Upper Egypt
+C0019,Lisa Jackson,Individual,Ismailia,Canal Zone
+C0020,Carla Gray,Individual,Damanhur,Delta
+C0021,Margaret Hawkins DDS,Individual,Asyut,Upper Egypt
+C0022,Patty Perez,Individual,Ismailia,Canal Zone
+C0023,Ethan Adams,Individual,Giza,Greater Cairo & Alex
+C0024,Tommy Walter,Individual,Port Said,Canal Zone
+C0025,Matthew Foster,Individual,Aswan,Upper Egypt
+C0026,Judy Baker,Individual,Giza,Greater Cairo & Alex
+C0027,Justin Baker,Individual,Luxor,Upper Egypt
+C0028,Stephanie Ross,Individual,Giza,Greater Cairo & Alex
+C0029,Zachary Hicks,Individual,Fayoum,Upper Egypt
+C0030,Anthony Rodriguez,Individual,Damanhur,Delta
+C0031,Rebecca Henderson,Individual,Port Said,Canal Zone
+C0032,James Ferrell,Individual,Giza,Greater Cairo & Alex
+C0033,Tricia Valencia,Individual,Suez,Canal Zone
+C0034,Nathan Maldonado,Individual,Port Said,Canal Zone
+C0035,Debra Davidson,Individual,Cairo,Greater Cairo & Alex
+C0036,Jeffrey Chavez,Individual,Tanta,Delta
+C0037,Sherri Baker,Individual,Fayoum,Upper Egypt
+C0038,Cassandra Gaines,Individual,Beni Suef,Upper Egypt
+C0039,Elizabeth Fowler,Individual,Mansoura,Delta
+C0040,Brittany Farmer,Individual,Giza,Greater Cairo & Alex
+C0041,Paula Moreno,Individual,Cairo,Greater Cairo & Alex
+C0042,Fred Smith,Individual,Port Said,Canal Zone
+C0043,Sherry Decker,Individual,Aswan,Upper Egypt
+C0044,Anthony Humphrey,Individual,Qena,Upper Egypt
+C0045,Angelica Tucker,Individual,Luxor,Upper Egypt
+C0046,Philip Cannon,Individual,Suez,Canal Zone
+C0047,John Pierce,Individual,Giza,Greater Cairo & Alex
+C0048,Shane Henderson,Individual,Beni Suef,Upper Egypt
+C0049,Joshua Blair,Individual,Giza,Greater Cairo & Alex
+C0050,Eric Carney,Individual,Asyut,Upper Egypt
+C0051,Jessica Holmes,Individual,Aswan,Upper Egypt
+C0052,Danny Morgan,Individual,Luxor,Upper Egypt
+C0053,Crystal Robinson,Individual,Qena,Upper Egypt
+C0054,Mark Perez,Individual,Beni Suef,Upper Egypt
+C0055,Shannon Jones,Individual,Alexandria,Greater Cairo & Alex
+C0056,Michael Lewis,Individual,Aswan,Upper Egypt
+C0057,Timothy Duncan,Individual,Luxor,Upper Egypt
+C0058,Richard Aguirre,Individual,Minya,Upper Egypt
+C0059,Brent Jordan,Individual,Mansoura,Delta
+C0060,John Daniel,Individual,Aswan,Upper Egypt
+C0061,Port Said Secondary School 5,School,Port Said,Canal Zone
+C0062,Mansoura Secondary School 6,School,Mansoura,Delta
+C0063,Beni Suef Preparatory School 3,School,Beni Suef,Upper Egypt
+C0064,Tanta Secondary School 13,School,Tanta,Delta
+C0065,Beni Suef Preparatory School 17,School ,Beni Suef,Upper Egypt
+C0066,Suez Secondary School 4,School,Suez,Canal Zone
+C0067,Luxor Primary School 8,School,Luxor,Upper Egypt
+C0068,Aswan Preparatory School 19,School,Aswan,Upper Egypt
+C0069,Ismailia Preparatory School 2,School,Ismailia,Canal Zone
+C0070,Suez Preparatory School 13,School,Suez,Canal Zone
+C0071,Luxor Preparatory School 3,School,Luxor,Upper Egypt
+C0072,Minya Preparatory School 19,School,Minya,Upper Egypt
+C0073,Asyut Preparatory School 19,School,Asyut,Upper Egypt
+C0074,Tanta Preparatory School 10,School,Tanta,Delta
+C0075,Fayoum Preparatory School 8,School,Fayoum,Upper Egypt
+C0076,Aswan Primary School 4,School,Aswan,Upper Egypt
+C0077,Asyut Secondary School 12,School,Asyut,Upper Egypt
+C0078,Port Said Secondary School 5,School,Port Said,Canal Zone
+C0079,Mansoura Secondary School 7,School ,Mansoura,Delta
+C0080,Ismailia Preparatory School 12,School,Ismailia,Canal Zone
+C0081,Aswan Primary School 13,School,Aswan,Upper Egypt
+C0082,Asyut Primary School 13,School,Asyut,Upper Egypt
+C0083,Alexandria Secondary School 14,School,Alexandria,Greater Cairo & Alex
+C0084,Alexandria Secondary School 17,School,Alexandria,Greater Cairo & Alex
+C0085,Suez Preparatory School 3,School ,Suez,Canal Zone
+C0086,Suez Public Library,Library,Suez,Canal Zone
+C0087,Giza Public Library,Library,Giza,Greater Cairo & Alex
+C0088,Cairo Public Library,Library,Cairo,Greater Cairo & Alex
+C0089,Sohag Public Library,Library,Sohag,Upper Egypt
+C0090,Luxor Public Library,Library,Luxor,Upper Egypt
+C0091,Suez Public Library,Library,Suez,Canal Zone
+C0092,Aswan Public Library,Library,Aswan,Upper Egypt
+C0093,Port Said Public Library,Library,Port Said,Canal Zone
+C0094,Ismailia Public Library,Library,Ismailia,Canal Zone
+C0095,Ismailia Public Library,Library,Ismailia,Canal Zone
+C0096,Tanta Public Library,Library,Tanta,Delta
+C0097,Aswan Public Library,Library,Aswan,Upper Egypt
+C0098,Asyut Public Library,Library,Asyut,Upper Egypt
+C0099,Asyut Public Library,Library,Asyut,Upper Egypt
+C0100,Minya Public Library,Library,Minya,Upper Egypt
+C0101,Nunez Distribution Co.,Distributor,Mansoura,Delta
+C0102,Joyce Distribution Co.,Distributor,Fayoum,Upper Egypt
+C0103,Garcia Distribution Co.,Distributor,Minya,Upper Egypt
+C0104,Powell Distribution Co.,Distributor,Alexandria,Greater Cairo & Alex
+C0105,Morgan Distribution Co.,Distributor,Asyut,Upper Egypt
+C0106,Hensley Distribution Co.,Distributor,Alexandria,Greater Cairo & Alex
+C0107,Wright Distribution Co.,Distributor,Qena,Upper Egypt
+C0108,Lee Distribution Co.,Distributor,Sohag,Upper Egypt
+C0109,West Distribution Co.,Distributor,Cairo,Greater Cairo & Alex
+C0110,Henderson Distribution Co.,Distributor,Alexandria,Greater Cairo & Alex

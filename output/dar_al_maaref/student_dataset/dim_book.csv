@@ -1,0 +1,21 @@
+book_id,title,category,author,list_price_egp,unit_cost_egp,published_year,is_bestseller,isbn
+B001,Arabic Language Grade 5,Educational,Ahmed Kamal,45,18,2019,True,978-977-180-795-5
+B002,Mathematics Grade 7,Educational,Mona Salah,50,20,2020,True,978-977-494-489-7
+B003,Science Grade 9,Educational,Ibrahim Nasser,55,22,2021,True,978-977-177-726-1
+B004,History of Egypt,Educational,Rania Farouk,48,19,2018,False,978-977-184-573-8
+B005,English Language Grade 6,Educational,Sara Hossam,52,21,2020,True,978-977-761-784-6
+B006,Introduction to Economics,Academic,Tarek Mansour,120,48,2017,True,978-977-806-561-1
+B007,Principles of Management,Academic,Dina Khalil,135,54,2019,True,978-977-854-504-4
+B008,Business Statistics,Academic,Omar Gamal,110,44,2021,False,978-977-433-264-8
+B009,Egyptian Law Fundamentals,Academic,Hana Suleiman,150,60,2016,False,978-977-802-678-3
+B010,Introduction to Programming,Academic,Youssef Ramzy,125,50,2022,True,978-977-839-590-3
+B011,The Nile and the Desert,novel,Layla Sherif,80,25,2020,True,978-977-504-304-0
+B012,Letters from Cairo,novel,Karim Badawi,75,24,2019,False,978-977-598-898-0
+B013,Shadows of the Pyramid,novel,Heba Mostafa,85,27,2021,True,978-977-871-844-2
+B014,A Summer in Alexandria,Novel,Nadia Fouad,70,22,2018,False,978-977-667-248-6
+B015,The Last Pharaoh,Novel,Samir Ismail,90,29,2022,True,978-977-729-418-0
+B016,Encyclopedia of Egyptian History,Reference,Editorial Board,220,88,2015,False,978-977-972-500-8
+B017,Arabic Dictionary (Modern),Reference,Editorial Board,180,72,2017,False,978-977-709-799-6
+B018,Atlas of the Arab World,Reference,Geog. Dept.,160,64,2018,False,978-977-274-427-4
+B019,Science Grade 10,Educational,Ibrahim Nasser,55,22,2022,False,978-977-547-139-4
+B020,Mathematics Grade 9,Educational,Mona Salah,50,20,2021,True,978-977-238-768-6
