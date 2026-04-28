@@ -1,0 +1,10 @@
+pandas
+numpy
+faker
+pydantic
+typer
+python-slugify
+openpyxl
+pyarrow
+ruff
+pytest
