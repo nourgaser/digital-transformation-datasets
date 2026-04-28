@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_type
+CH01,Broker,Offline
+CH02,Direct Sales,Offline
+CH03,Sakneen Digital,Online
+CH04,Corporate/B2B,Offline
+CH05,Referral,Offline

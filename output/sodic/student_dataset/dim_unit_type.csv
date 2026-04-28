@@ -1,0 +1,9 @@
+unit_type_id,unit_type,min_area_sqm,max_area_sqm,bedrooms,base_price_per_sqm
+UT01,Studio,35,55,0,35000
+UT02,Apartment 1BR,65,90,1,32000
+UT03,Apartment 2BR,110,160,2,30000
+UT04,Apartment 3BR,170,240,3,28000
+UT05,Penthouse,200,350,4,38000
+UT06,twin house,250,380,4,25000
+UT07,villa,350,600,5,22000
+UT08,Commercial,50,300,0,40000

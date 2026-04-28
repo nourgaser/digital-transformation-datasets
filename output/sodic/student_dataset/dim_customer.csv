@@ -1,0 +1,151 @@
+customer_id,customer_name,buyer_type,nationality,governorate,age,gender,is_investor
+CUS0001,Allison Hill,Egyptian Diaspora,Egyptian,Cairo,28.0,Female,False
+CUS0002,Noah Rhodes,Egyptian Local,Egyptian,Cairo,54.0,Male,False
+CUS0003,Angie Henderson,Egyptian Local,Egyptian,Cairo,46.0,Male,False
+CUS0004,Daniel Wagner,Egyptian Local,Egyptian,Cairo,55.0,Female,False
+CUS0005,Cristian Santos,Egyptian Diaspora,Egyptian,UAE,42.0,Male,False
+CUS0006,Connie Lawrence,Egyptian Local,Egyptian,Giza,43.0,Female,True
+CUS0007,Blake and Sons Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0008,Gina Moore,Egyptian Local,Egyptian,Cairo,29.0,Male,False
+CUS0009,Gabrielle Davis,Egyptian Local,Egyptian,Cairo,29.0,Male,False
+CUS0010,Ryan Munoz,Egyptian Local,Egyptian,UK,28.0,Female,True
+CUS0011,Monica Herrera,Egyptian Local,Egyptian,Overseas,63.0,Female,False
+CUS0012,Jamie Arnold,Egyptian Diaspora,Egyptian,Cairo,39.0,Male,False
+CUS0013,"Montgomery, Hensley and Ray Real Estate",Corporate Investor,Corporate,Cairo,,,True
+CUS0014,Amber Perez,Arab Expat,Arab,UAE,37.0,Female,False
+CUS0015,Bobby Hall,Egyptian Diaspora,Egyptian,Giza,58.0,Female,False
+CUS0016,Donald Reid,Egyptian Diaspora,Egyptian,Gulf,33.0,Male,False
+CUS0017,Jacob Clark,Egyptian Local,Egyptian,Gulf,42.0,Male,False
+CUS0018,Timothy Wong,Egyptian Local,Egyptian,KSA,59.0,Male,False
+CUS0019,Carolyn Daniel,arab expat,Arab,Gulf,30.0,Male,False
+CUS0020,James Mayo,Arab Expat,Arab,Giza,45.0,Male,False
+CUS0021,"Watts, Robinson and Nguyen Real Estate",Corporate Investor,Corporate,Cairo,,,True
+CUS0022,Amy Underwood,Arab Expat,Arab,Giza,43.0,Female,False
+CUS0023,Morales-Jones Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0024,Latoya Robbins,Egyptian Local,Egyptian,Cairo,32.0,Male,False
+CUS0025,Jonathan Wilkerson,Egyptian Local,Egyptian,Gulf,36.0,Female,False
+CUS0026,Brenda Taylor,Egyptian Local,Egyptian,Cairo,55.0,Male,False
+CUS0027,Kimberly Burgess,Egyptian Local,Egyptian,Cairo,58.0,Male,True
+CUS0028,Kevin Cox,Egyptian Local,Egyptian,Overseas,56.0,Male,False
+CUS0029,Brenda Snyder PhD,Egyptian Diaspora,Egyptian,Giza,62.0,Female,False
+CUS0030,Brittany Moore,Arab Expat,Arab,Cairo,47.0,Male,False
+CUS0031,Linda Cruz,Egyptian Local,Egyptian,Cairo,58.0,Female,True
+CUS0032,Julie King,Egyptian Local,Egyptian,Giza,57.0,Female,False
+CUS0033,Terri Frazier,Arab Expat,Arab,Alexandria,30.0,Male,False
+CUS0034,Stephen Potter,Egyptian Local,Egyptian,Overseas,49.0,Male,True
+CUS0035,Gina Carter,Arab Expat,Arab,Alexandria,35.0,Male,False
+CUS0036,Aaron Bowen,Egyptian Local,Egyptian,Cairo,42.0,Female,False
+CUS0037,Valerie Gill,Arab Expat,Arab,Giza,36.0,Male,False
+CUS0038,Ashley Garrett,Egyptian Diaspora,Egyptian,Cairo,37.0,Female,False
+CUS0039,"Romero, Gonzalez and Brooks Real Estate",Corporate Investor,Corporate,Cairo,,,True
+CUS0040,Troy Nielsen,Egyptian Local,Egyptian,Cairo,43.0,Female,False
+CUS0041,Linda Burns,Egyptian Local,Egyptian,Alexandria,53.0,Female,False
+CUS0042,Hickman LLC Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0043,David Bradley,Arab Expat,Arab,Overseas,32.0,Female,False
+CUS0044,Nicholas Cabrera,Egyptian Diaspora,Egyptian,Giza,61.0,Female,True
+CUS0045,Kim Martinez,Egyptian Local,Egyptian,Giza,47.0,Male,False
+CUS0046,Theresa Martin,Egyptian Local,Egyptian,Gulf,32.0,Male,False
+CUS0047,"Brennan, Henderson and Lewis Real Estate",Corporate Investor,Corporate,Cairo,,,True
+CUS0048,Monica Harris,Arab Expat,Arab,Cairo,31.0,Male,False
+CUS0049,Zachary Santos,Egyptian Local,Egyptian,Alexandria,49.0,Female,False
+CUS0050,Joseph Martinez,Egyptian Local,Egyptian,Giza,25.0,Male,True
+CUS0051,George Chapman,Egyptian Local,Egyptian,Giza,27.0,Female,False
+CUS0052,Daniel Jones,Egyptian Local,Egyptian,Overseas,41.0,Male,True
+CUS0053,Crystal Whitehead,Egyptian Diaspora,Egyptian,UAE,47.0,Male,False
+CUS0054,Andrea Young,Egyptian Local,Egyptian,Giza,58.0,Female,True
+CUS0055,Cindy Anderson,Egyptian Local,Egyptian,UAE,29.0,Male,False
+CUS0056,Laura Kennedy,Arab Expat,Arab,Alexandria,44.0,Male,False
+CUS0057,Rhonda Lee,Egyptian Local,Egyptian,Cairo,55.0,Male,False
+CUS0058,Jeffrey Henderson,Arab Expat,Arab,Cairo,63.0,Female,False
+CUS0059,Nicholas Nunez,Arab Expat,Arab,KSA,63.0,Male,False
+CUS0060,"Garcia, Powell and Morgan Real Estate",Corporate Investor,Corporate,Cairo,,,True
+CUS0061,Danielle Lee,Egyptian Local,Egyptian,Gulf,60.0,Female,False
+CUS0062,Javier Ramirez,Egyptian Diaspora,Egyptian,Gulf,62.0,Female,True
+CUS0063,Thomas Ramos,Egyptian Local,Egyptian,UK,31.0,Male,False
+CUS0064,Krista Williams,Egyptian Local,Egyptian,Alexandria,53.0,Male,True
+CUS0065,Dr. Tracy House DVM,Egyptian Local,Egyptian,UAE,59.0,Male,False
+CUS0066,John Lewis,Egyptian Diaspora,Egyptian,Cairo,54.0,Male,False
+CUS0067,Anthony Gray,Egyptian Diaspora,Egyptian,Alexandria,48.0,Male,False
+CUS0068,Mrs. Rachel Gibson,Egyptian Local,Egyptian,Alexandria,52.0,Female,False
+CUS0069,Tyler Cowan,Egyptian Local,Egyptian,Gulf,50.0,Male,False
+CUS0070,Michelle Moore,Egyptian Local,Egyptian,Overseas,46.0,Female,False
+CUS0071,Wayne Riley,Arab Expat,Arab,Cairo,46.0,Female,False
+CUS0072,Nicole Brown,Egyptian Diaspora,Egyptian,Cairo,36.0,Male,False
+CUS0073,Kathryn Farrell,Egyptian Local,Egyptian,Giza,35.0,Male,False
+CUS0074,Tyler Miller,egyptian local,Egyptian,Cairo,42.0,Female,False
+CUS0075,Jones Inc Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0076,Cynthia Wilson,Egyptian Diaspora,Egyptian,Cairo,40.0,Female,False
+CUS0077,Danielle Wheeler,Egyptian Local,Egyptian,UAE,61.0,Female,True
+CUS0078,Jennifer Silva,Egyptian Local,Egyptian,Alexandria,59.0,Female,False
+CUS0079,Taylor Harris,egyptian local,Egyptian,Giza,64.0,Female,False
+CUS0080,Cynthia Foster,Egyptian Local,Egyptian,KSA,25.0,Male,True
+CUS0081,Elizabeth Stewart,Egyptian Local,Egyptian,Cairo,59.0,Male,False
+CUS0082,Angel Ellis,Egyptian Local,Egyptian,UK,30.0,Male,False
+CUS0083,Dr. Angel Lewis MD,Egyptian Diaspora,Egyptian,Giza,51.0,Male,True
+CUS0084,Ibarra-Suarez Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0085,Christopher Bass,Egyptian Diaspora,Egyptian,Cairo,44.0,Male,False
+CUS0086,Lisa Archer,Egyptian Diaspora,Egyptian,Cairo,43.0,Male,True
+CUS0087,Aimee Montoya,Egyptian Local,Egyptian,KSA,46.0,Male,False
+CUS0088,Matthew Mcmillan,Egyptian Local,Egyptian,Cairo,50.0,Male,False
+CUS0089,Brian Rodriguez,Egyptian Diaspora,Egyptian,UAE,56.0,Male,False
+CUS0090,Denise Jacobs,Egyptian Local,Egyptian,Cairo,59.0,Male,False
+CUS0091,Christina Walters,Egyptian Local,Egyptian,Gulf,46.0,Female,False
+CUS0092,John Whitehead,Egyptian Local,Egyptian,Overseas,62.0,Male,False
+CUS0093,Anna Henderson,Arab Expat,Arab,Cairo,34.0,Male,False
+CUS0094,Aaron Wise,Egyptian Local,Egyptian,UAE,63.0,Female,False
+CUS0095,Deborah Figueroa,Arab Expat,Arab,UAE,34.0,Male,True
+CUS0096,Jessica Smith,Egyptian Local,Egyptian,Giza,25.0,Male,False
+CUS0097,Stephen Mckee,Egyptian Local,Egyptian,Overseas,28.0,Female,False
+CUS0098,Sandra Aguilar,Arab Expat,Arab,Giza,50.0,Male,True
+CUS0099,Jordan Inc Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0100,Steven Flynn,Egyptian Local,Egyptian,UK,29.0,Female,True
+CUS0101,Stephanie Clark,Egyptian Diaspora,Egyptian,Giza,34.0,Female,False
+CUS0102,Estrada LLC Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0103,Stacey Russell,Egyptian Local,Egyptian,KSA,58.0,Male,False
+CUS0104,Brittany Spears,Egyptian Diaspora,Egyptian,Cairo,26.0,Male,False
+CUS0105,Vanessa Cochran,Egyptian Local,Egyptian,Overseas,31.0,Female,False
+CUS0106,Allison Doyle,Egyptian Diaspora,Egyptian,Cairo,27.0,Female,False
+CUS0107,Timothy Pham,Egyptian Diaspora,Egyptian,Giza,44.0,Female,False
+CUS0108,Rita Adams,Egyptian Local,Egyptian,Overseas,58.0,Female,False
+CUS0109,"Rodriguez, Brennan and Garrison Real Estate",Corporate Investor,Corporate,Cairo,,,True
+CUS0110,Robert Stevens,Egyptian Diaspora,Egyptian,Giza,28.0,Male,False
+CUS0111,Robert Perez,Egyptian Local,Egyptian,Gulf,42.0,Female,False
+CUS0112,Corey Murphy,Egyptian Local,Egyptian,Cairo,36.0,Female,False
+CUS0113,Rasmussen LLC Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0114,Jordan Frazier,Egyptian Diaspora,Egyptian,Overseas,28.0,Female,False
+CUS0115,Erin Johnson,Egyptian Diaspora,Egyptian,Giza,49.0,Male,False
+CUS0116,Debbie Carpenter,Egyptian Local,Egyptian,Cairo,62.0,Male,True
+CUS0117,Johnson-Carlson Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0118,Richard Graham,Egyptian Diaspora,Egyptian,Gulf,48.0,Female,False
+CUS0119,Mrs. Stephanie Lee,egyptian diaspora,Egyptian,Cairo,44.0,Female,False
+CUS0120,Jeffrey Meyer,Egyptian Local,Egyptian,Overseas,25.0,Male,False
+CUS0121,Melissa Bentley,Arab Expat,Arab,KSA,53.0,Female,False
+CUS0122,Christina Reynolds,Arab Expat,Arab,Overseas,30.0,Female,True
+CUS0123,Tammie Hanson,Egyptian Local,Egyptian,UAE,47.0,Female,True
+CUS0124,Belinda Mccullough,Egyptian Local,Egyptian,Alexandria,56.0,Female,False
+CUS0125,Mary Nguyen,Arab Expat,Arab,Overseas,46.0,Female,False
+CUS0126,Kristen Lee,Egyptian Local,Egyptian,KSA,30.0,Female,False
+CUS0127,Jamie Adkins,Arab Expat,Arab,UAE,47.0,Female,False
+CUS0128,Keith Sullivan,Egyptian Local,Egyptian,Overseas,33.0,Female,False
+CUS0129,Elizabeth Clark,Egyptian Diaspora,Egyptian,Cairo,35.0,Female,False
+CUS0130,Lisa Morris,Egyptian Local,Egyptian,Cairo,36.0,Male,False
+CUS0131,Michael Dixon,Egyptian Local,Egyptian,Cairo,39.0,Female,False
+CUS0132,Toni Fitzgerald,Egyptian Local,Egyptian,Giza,37.0,Male,False
+CUS0133,Diane Beck,Egyptian Local,Egyptian,Gulf,31.0,Male,False
+CUS0134,Anna Crane,Arab Expat,Arab,Giza,27.0,Male,False
+CUS0135,Eric Drake,Egyptian Local,Egyptian,Giza,55.0,Female,False
+CUS0136,Angel Riggs,Egyptian Diaspora,Egyptian,Gulf,34.0,Male,False
+CUS0137,Patricia Gibson,Egyptian Local,Egyptian,Giza,44.0,Female,False
+CUS0138,Laura Higgins,Egyptian Diaspora,Egyptian,Giza,38.0,Male,False
+CUS0139,Snyder-Sanchez Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0140,"Watts, Stafford and Dalton Real Estate",Corporate Investor,Corporate,Cairo,,,True
+CUS0141,Paula Robinson,Egyptian Local,Egyptian,KSA,44.0,Male,True
+CUS0142,Melissa Marshall,Egyptian Local,Egyptian,UAE,45.0,Male,True
+CUS0143,Sylvia Martinez,Egyptian Local,Egyptian,Cairo,39.0,Female,False
+CUS0144,John Schmidt,Arab Expat,Arab,Cairo,49.0,Female,False
+CUS0145,Emily Fischer,Egyptian Local,Egyptian,Cairo,63.0,Male,False
+CUS0146,Robert Mcclain,Egyptian Local,Egyptian,Overseas,45.0,Male,False
+CUS0147,Rivas-Kelley Real Estate,Corporate Investor,Corporate,Cairo,,,True
+CUS0148,Natasha Wells,Egyptian Local,Egyptian,Cairo,62.0,Male,False
+CUS0149,David Walsh,Egyptian Local,Egyptian,Cairo,62.0,Male,False
+CUS0150,Kelly Sims,Egyptian Local,Egyptian,Giza,42.0,Male,False

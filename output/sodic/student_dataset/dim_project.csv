@@ -1,0 +1,11 @@
+project_id,project_name,location,sub_area,project_type,launch_year,total_units,target_delivery_year
+PJ01,Allegria,West Cairo,Sheikh Zayed,Residential,2008,1200,2025
+PJ02,Beverly Hills,West Cairo,Sheikh Zayed,Mixed-Use,2005,900,2024
+PJ03,Westown,West Cairo,Sheikh Zayed,Mixed-Use,2010,800,2024
+PJ04,Eastown,East Cairo,New Cairo,Residential,2012,1100,2025
+PJ05,SODIC East,East Cairo,New Cairo,Mixed-Use,2018,1500,2026
+PJ06,Villette,East Cairo,New Cairo,Residential,2016,700,2024
+PJ07,Ogami,North Coast,Ras El Hekma,Resort ,2021,600,2026
+PJ08,Caesar,North Coast,North Coast,Resort ,2019,500,2025
+PJ09,The Polygon,West Cairo,New Zayed,Commercial,2022,300,2026
+PJ10,Kattameya Plaza,East Cairo,Kattameya,Residential,1998,400,2023
