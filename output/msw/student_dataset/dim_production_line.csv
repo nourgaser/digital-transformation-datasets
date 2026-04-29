@@ -1,0 +1,16 @@
+line_id,line_name,department,production_type,capacity_kg_per_day,operational_status,location
+PL01,Spinning Line A,Spinning,Carding,8000,Active,El Mahalla El Kubra
+PL02,Spinning Line B,Spinning,Combing,6000,Active,El Mahalla El Kubra
+PL03,Spinning Line C,Spinning,Open-End,9000,Active,El Mahalla El Kubra
+PL04,Spinning Line D,Spinning,Ring Spinning,5000,Active,El Mahalla El Kubra
+PL05,Weaving Hall 1,Weaving,Shuttle Loom,5000,Active,El Mahalla El Kubra
+PL06,Weaving Hall 2,Weaving,Rapier Loom,7000,Active,El Mahalla El Kubra
+PL07,Weaving Hall 3,Weaving,Air-Jet Loom,8500,Active,El Mahalla El Kubra
+PL08,Weaving Hall 4,Weaving,shuttle loom,4500,Partial,El Mahalla El Kubra
+PL09,Weaving Hall 5,Weaving,rapier loom,6500,Active,El Mahalla El Kubra
+PL10,Finishing Unit 1,Finishing,Dyeing,4000,Active,El Mahalla El Kubra
+PL11,Finishing Unit 2,Finishing,Printing,3500,Active,El Mahalla El Kubra
+PL12,Finishing Unit 3,Finishing,Bleaching,5000,Active,El Mahalla El Kubra
+PL13,Garment Factory 1,Garment,Cut-and-Sew,2000,Active,El Mahalla El Kubra
+PL14,Garment Factory 2,Garment,Knitwear,1800,Active,El Mahalla El Kubra
+PL15,Garment Factory 3,Garment,Home Textile,2200,Active,El Mahalla El Kubra

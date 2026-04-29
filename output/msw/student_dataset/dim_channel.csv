@@ -1,0 +1,7 @@
+channel_id,channel_name,channel_type
+CH01,Direct Sales,Domestic
+CH02,Distributor,Domestic
+CH03,Export Agent,International
+CH04,Government Tender,Domestic
+CH05,E-commerce,Domestic
+CH06,Trade Fair,International

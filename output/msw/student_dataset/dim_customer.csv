@@ -1,0 +1,121 @@
+customer_id,customer_name,customer_type,market,country,governorate
+CUS0001,"Rodriguez, Figueroa and Sanchez",Wholesaler,Domestic,Egypt,Cairo
+CUS0002,Doyle Ltd,Government/Military,Domestic,Egypt,Mansoura
+CUS0003,Kimberly Garza,Local Retailer,Domestic,Egypt,Minya
+CUS0004,Brandon Hall,Local Retailer,Domestic,Egypt,Minya
+CUS0005,"Johnson, Gonzalez and Santos",export buyer,Export,Italy,
+CUS0006,"Barnes, Cole and Ramirez",Wholesaler,Domestic,Egypt,Cairo
+CUS0007,Olivia Moore,Local Retailer,Domestic,Egypt,Mansoura
+CUS0008,Donald Lewis,Local Retailer,Domestic,Egypt,Suez
+CUS0009,Ashley James,Local Retailer,Domestic,Egypt,Mansoura
+CUS0010,Abbott-Munoz,Government/Military,Domestic,Egypt,Minya
+CUS0011,Blair PLC,Wholesaler,Domestic,Egypt,Mansoura
+CUS0012,Dudley Group,Garment Manufacturer,Domestic,Egypt,Tanta
+CUS0013,Arnold Ltd,Export Buyer,Export,Germany,
+CUS0014,"Mcclure, Ward and Lee",Export Buyer,Export,USA,
+CUS0015,Williams and Sons,Government/Military,Domestic,Egypt,Gharbia
+CUS0016,Galloway-Wyatt,Garment Manufacturer,Domestic,Egypt,Mansoura
+CUS0017,James Group,Export Buyer,Export,UAE,
+CUS0018,Holly Wood,Local Retailer,Domestic,Egypt,Dakahlia
+CUS0019,Derek Zuniga,Local Retailer,Domestic,Egypt,Gharbia
+CUS0020,"Jones, Reid and Ferguson",Wholesaler,Domestic,Egypt,Cairo
+CUS0021,Martin Group,Government/Military,Domestic,Egypt,Ismailia
+CUS0022,Timothy Watts,Local Retailer,Domestic,Egypt,Dakahlia
+CUS0023,Frederick Tate,Local Retailer,Domestic,Egypt,Tanta
+CUS0024,Perez Inc,Export Buyer,Export,UAE,
+CUS0025,Morales-Jones,Wholesaler,Domestic,Egypt,Minya
+CUS0026,Latoya Robbins,Local Retailer,Domestic,Egypt,Asyut
+CUS0027,Jonathan Wilkerson,Local Retailer,Domestic,Egypt,Tanta
+CUS0028,"Ellis, Baker and Wright",Export Buyer,Export,UK,
+CUS0029,"Ryan, Burgess and Patterson",Export Buyer,Export,Turkey,
+CUS0030,"Ross, Robinson and Bright",Garment Manufacturer,Domestic,Egypt,Asyut
+CUS0031,"Snyder, Campos and Callahan",Export Buyer,Export,USA,
+CUS0032,Burton Ltd,Garment Manufacturer,Domestic,Egypt,Mansoura
+CUS0033,Carlson-Cruz,Government/Military,Domestic,Egypt,Minya
+CUS0034,"Ferrell, Rice and Maddox",Export Buyer,Export,Italy,
+CUS0035,Frazier Inc,Wholesaler,Domestic,Egypt,Alexandria
+CUS0036,"Dyer, Potter and Mack",Wholesaler,Domestic,Egypt,Mansoura
+CUS0037,Edward Moore,Local Retailer,Domestic,Egypt,Dakahlia
+CUS0038,Mckay Ltd,Garment Manufacturer,Domestic,Egypt,Asyut
+CUS0039,Stanton-Gill,Government/Military,Domestic,Egypt,Mansoura
+CUS0040,"Gaines, Harrell and Evans",Government/Military,Domestic,Egypt,Cairo
+CUS0041,Lisa Hernandez,Local Retailer,Domestic,Egypt,Cairo
+CUS0042,Ryan PLC,Export Buyer,Export,Turkey,
+CUS0043,George Group,Garment Manufacturer,Domestic,Egypt,Mansoura
+CUS0044,Rodriguez LLC,Export Buyer,Export,UAE,
+CUS0045,Sandra Parker,local retailer,Domestic,Egypt,Port Said
+CUS0046,Allen PLC,Garment Manufacturer,Domestic,Egypt,Asyut
+CUS0047,Miller Group,Wholesaler,Domestic,Egypt,Tanta
+CUS0048,Vanessa Patel,local retailer,Domestic,Egypt,Minya
+CUS0049,Anderson Group,Wholesaler,Domestic,Egypt,Tanta
+CUS0050,"Martin, Rose and Obrien",Government/Military,Domestic,Egypt,Dakahlia
+CUS0051,Hickman Ltd,Export Buyer,Export,Turkey,
+CUS0052,"Harris, Collins and Carney",Garment Manufacturer,Domestic,Egypt,Alexandria
+CUS0053,"Brooks, Lam and Hayes",Wholesaler,Domestic,Egypt,Giza
+CUS0054,Walker LLC,Export Buyer,Export,Italy,
+CUS0055,Julian Chapman,Local Retailer,Domestic,Egypt,Alexandria
+CUS0056,Jones Ltd,export buyer,Export,Turkey,
+CUS0057,Perez Inc,Wholesaler,Domestic,Egypt,Dakahlia
+CUS0058,Jones-Young,Garment Manufacturer,Domestic,Egypt,Port Said
+CUS0059,"Washington, Ryan and Cummings",Wholesaler,Domestic,Egypt,Ismailia
+CUS0060,"Johnston, Sanchez and Kennedy",Export Buyer,Export,Germany,
+CUS0061,Lee-Davis,Government/Military,Domestic,Egypt,Giza
+CUS0062,Gomez-Jenkins,Government/Military,Domestic,Egypt,Ismailia
+CUS0063,"Brown, Valdez and Lucas",Export Buyer,Export,UAE,
+CUS0064,Nicholas Mcbride,Local Retailer,Domestic,Egypt,Dakahlia
+CUS0065,Corey Herrera,Local Retailer,Domestic,Egypt,Cairo
+CUS0066,Henderson LLC,Export Buyer,Export,Saudi Arabia,
+CUS0067,Wright-Leblanc,Export Buyer,Export,USA,
+CUS0068,Morton-Chase,Wholesaler,Domestic,Egypt,Giza
+CUS0069,Williams PLC,Export Buyer,Export,Saudi Arabia,
+CUS0070,Novak and Sons,Export Buyer,Export,UK,
+CUS0071,John Lewis,Local Retailer,Domestic,Egypt,Alexandria
+CUS0072,Barrera-Martin,Wholesaler,Domestic,Egypt,Ismailia
+CUS0073,Galloway LLC,Export Buyer,Export,UAE,
+CUS0074,Mitchell-Horton,Wholesaler,Domestic,Egypt,Giza
+CUS0075,"Cowan, Peters and Higgins",Export Buyer,Export,Saudi Arabia,
+CUS0076,Edward Novak,Local Retailer,Domestic,Egypt,Mansoura
+CUS0077,"Fitzgerald, Brown and Edwards",Export Buyer,Export,Italy,
+CUS0078,John Calhoun,Local Retailer,Domestic,Egypt,Port Said
+CUS0079,"Moore, Yu and Miller",Export Buyer,Export,USA,
+CUS0080,Kurt Leonard,Local Retailer,Domestic,Egypt,Port Said
+CUS0081,Powell PLC,Export Buyer,Export,USA,
+CUS0082,Riley Inc,Garment Manufacturer,Domestic,Egypt,Suez
+CUS0083,"Miller, Sandoval and Cunningham",Garment Manufacturer,Domestic,Egypt,Mansoura
+CUS0084,Donovan-Harris,Export Buyer,Export,UK,
+CUS0085,"Edwards, Baker and Anderson",Government/Military,Domestic,Egypt,Dakahlia
+CUS0086,"Evans, Stewart and Walton",Export Buyer,Export,UAE,
+CUS0087,Smith PLC,Garment Manufacturer,Domestic,Egypt,Ismailia
+CUS0088,"Ferrell, Jones and Lewis",Wholesaler,Domestic,Egypt,Mansoura
+CUS0089,Timothy Ibarra,Local Retailer,Domestic,Egypt,Gharbia
+CUS0090,Jaclyn Moore,Local Retailer,Domestic,Egypt,Ismailia
+CUS0091,Michele Carr,Local Retailer,Domestic,Egypt,Mansoura
+CUS0092,Miss Aimee Montoya,Local Retailer,Domestic,Egypt,Minya
+CUS0093,Huynh-Garcia,Wholesaler,Domestic,Egypt,Mansoura
+CUS0094,Deborah Preston,Local Retailer,Domestic,Egypt,Cairo
+CUS0095,"Tran, Nelson and Jacobs",Export Buyer,Export,Italy,
+CUS0096,"Cooper, Watts and Farrell",Wholesaler,Domestic,Egypt,Tanta
+CUS0097,"Freeman, Whitehead and Mathis",Government/Military,Domestic,Egypt,Mansoura
+CUS0098,Walters LLC,Wholesaler,Domestic,Egypt,Minya
+CUS0099,Smith and Sons,Export Buyer,Export,France,
+CUS0100,Deborah Figueroa,Local Retailer,Domestic,Egypt,Port Said
+CUS0101,"Thornton, Hoffman and Rodriguez",Export Buyer,Export,UK,
+CUS0102,Melissa Hernandez,Local Retailer,Domestic,Egypt,Asyut
+CUS0103,Davenport PLC,Garment Manufacturer,Domestic,Egypt,Dakahlia
+CUS0104,"Hernandez, Anderson and Parker",Garment Manufacturer,Domestic,Egypt,Minya
+CUS0105,Rebecca Valencia,Local Retailer,Domestic,Egypt,Asyut
+CUS0106,Clark-Wright,Export Buyer,Export,Italy,
+CUS0107,Richard Henson,Local Retailer,Domestic,Egypt,Minya
+CUS0108,Dickson-Brady,Garment Manufacturer,Domestic,Egypt,Giza
+CUS0109,Cynthia Martin,Local Retailer,Domestic,Egypt,Mansoura
+CUS0110,Keith Inc,Wholesaler,Domestic,Egypt,Alexandria
+CUS0111,Doyle LLC,Garment Manufacturer,Domestic,Egypt,Tanta
+CUS0112,Pham-Shields,Wholesaler,Domestic,Egypt,Giza
+CUS0113,Adams Ltd,Garment Manufacturer,Domestic,Egypt,Ismailia
+CUS0114,Shane Garrison,Local Retailer,Domestic,Egypt,Asyut
+CUS0115,Gonzalez Group,Export Buyer,Export,Germany,
+CUS0116,Torres-Pope,Export Buyer,Export,UK,
+CUS0117,Alexander Lee,Local Retailer,Domestic,Egypt,Port Said
+CUS0118,Ramirez-Jones,Wholesaler,Domestic,Egypt,Dakahlia
+CUS0119,Bell-Hicks,Export Buyer,Export,USA,
+CUS0120,"Zavala, Herrera and Crosby",Garment Manufacturer,Domestic,Egypt,Dakahlia

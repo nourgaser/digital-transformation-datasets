@@ -1,0 +1,17 @@
+product_id,product_name,category,fiber_type,unit_of_measure,base_price_egp
+PR01,Carded Yarn 20s,Yarn,100% Egyptian Cotton,kg,110
+PR02,Combed Yarn 40s,Yarn,100% Egyptian Cotton,kg,145
+PR03,Cotton-Polyester Yarn,Yarn,Cotton Blend,kg,85
+PR04,Grey Fabric Standard,Grey Fabric,100% Egyptian Cotton,meter,42
+PR05,Grey Fabric Heavy,Grey Fabric,100% Egyptian Cotton,meter,58
+PR06,Grey Fabric Blend,Grey Fabric,Cotton Blend,meter,35
+PR07,Dyed Fabric Solid,Finished Fabric,100% Egyptian Cotton,meter,80
+PR08,Printed Fabric,Finished Fabric,100% Egyptian Cotton,meter,95
+PR09,Finished Fabric Blend,Finished Fabric,Cotton Blend,meter,65
+PR10,Cotton Towel Set,Garment ,100% Egyptian Cotton,piece,210
+PR11,Cotton Bed Sheet Set,Garment ,100% Egyptian Cotton,piece,380
+PR12,Cotton T-Shirt,Garment ,100% Egyptian Cotton,piece,160
+PR13,Cotton Work Uniform,Garment,Cotton Blend,piece,190
+PR14,Denim Fabric,Finished Fabric,Cotton Blend,meter,72
+PR15,Medical Cotton Gauze,Yarn,100% Egyptian Cotton,kg,95
+PR16,High-Thread Percale,Finished Fabric,100% Egyptian Cotton,meter,115
