@@ -1,0 +1,7 @@
+platform_id,platform_name,medium,description
+PF01,Al-Ahram Daily,Print,Flagship daily Arabic newspaper
+PF02,Al-Ahram Weekly,Print,English weekly edition
+PF03,Al-Masaa Evening,Print,Evening Arabic daily edition
+PF04,ahram.org.eg,Digital,Main Arabic news portal
+PF05,Al-Ahram Mobile App,Digital ,iOS & Android news application
+PF06,Al-Ahram YouTube,Digital ,Official YouTube video channel

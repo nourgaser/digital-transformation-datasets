@@ -1,0 +1,101 @@
+advertiser_id,advertiser_name,advertiser_category,platform_preference,advertiser_tier
+ADV0001,"Rodriguez, Figueroa and Sanchez",Government,Print_Heavy,Standard
+ADV0002,Doyle Ltd,Government,Print_Heavy,Premium
+ADV0003,"Mcclain, Miller and Henderson",Government,Print_Heavy,Standard
+ADV0004,Davis and Sons,Government,Print_Heavy,Standard
+ADV0005,"Guzman, Hoffman and Baldwin",Government,Print_Heavy,Standard
+ADV0006,"Gardner, Robinson and Lawrence",Government,Print_Heavy,Standard
+ADV0007,Blake and Sons,Government,Print_Heavy,Budget
+ADV0008,"Henderson, Ramirez and Lewis",Government,Print_Heavy,Premium
+ADV0009,Garcia-James,Government,Print_Heavy,Standard
+ADV0010,Abbott-Munoz,Government,Print_Heavy,Premium
+ADV0011,Blair PLC,Government,Print_Heavy,Standard
+ADV0012,Dudley Group,Government,Print_Heavy,Standard
+ADV0013,Arnold Ltd,Government,Print_Heavy,Premium
+ADV0014,"Mcclure, Ward and Lee",Government,Print_Heavy,Premium
+ADV0015,Williams and Sons,Government,Print_Heavy,Standard
+ADV0016,Galloway-Wyatt,Banking/Finance,Mixed,Standard
+ADV0017,James Group,Banking/Finance,Mixed,Standard
+ADV0018,"Flowers, Martin and Kelly",Banking/Finance,Mixed,Standard
+ADV0019,"Adams, Zuniga and Wong",Banking/Finance,Mixed,Budget
+ADV0020,"Reid, Ferguson and Sanchez",Banking/Finance,Mixed,Premium
+ADV0021,Gray-Mayo,Banking/Finance,Mixed,Budget
+ADV0022,"Watts, Robinson and Nguyen",Banking/Finance,Mixed,Standard
+ADV0023,Perez Inc,Banking/Finance,Mixed,Standard
+ADV0024,Morales-Jones,Banking/Finance,Mixed,Premium
+ADV0025,"Walter, Edwards and Rios",Banking/Finance,Mixed,Budget
+ADV0026,Wilkerson-Day,Banking/Finance,Mixed,Standard
+ADV0027,Baker and Sons,Banking/Finance,Mixed,Premium
+ADV0028,"Hoffman, Baker and Richards",Banking/Finance,Mixed,Premium
+ADV0029,"Ross, Robinson and Bright",Banking/Finance,Mixed,Budget
+ADV0030,"Snyder, Campos and Callahan",Banking/Finance,Mixed,Standard
+ADV0031,Burton Ltd,Banking/Finance,Mixed,Budget
+ADV0032,Carlson-Cruz,Banking/Finance,Mixed,Standard
+ADV0033,"Ferrell, Rice and Maddox",Banking/Finance,Mixed,Standard
+ADV0034,Frazier Inc,Banking/Finance,Mixed,Budget
+ADV0035,"Dyer, Potter and Mack",Banking/Finance,Mixed,Standard
+ADV0036,Rodriguez-Graham,Telecom,Digital_Heavy,Standard
+ADV0037,Smith-Bowen,Telecom,Digital_Heavy,Budget
+ADV0038,"Baker, Mason and White",Telecom,Digital_Heavy,Standard
+ADV0039,Harrell LLC,Telecom,Digital_Heavy,Budget
+ADV0040,"Romero, Gonzalez and Brooks",Telecom,Digital_Heavy,Standard
+ADV0041,Ryan PLC,Telecom,Digital_Heavy,Standard
+ADV0042,George Group,Telecom,Digital_Heavy,Premium
+ADV0043,Rodriguez LLC,Telecom,Digital_Heavy,Standard
+ADV0044,Allen-Allen,Telecom,Digital_Heavy,Standard
+ADV0045,"Arroyo, Miller and Tucker",Telecom,Digital_Heavy,Premium
+ADV0046,Spence PLC,real estate,Print_Heavy,Standard
+ADV0047,Anderson Group,Real Estate,Print_Heavy,Premium
+ADV0048,"Martin, Rose and Obrien",Real Estate,Print_Heavy,Standard
+ADV0049,Hickman Ltd,Real Estate,Print_Heavy,Standard
+ADV0050,"Harris, Collins and Carney",Real Estate,Print_Heavy,Standard
+ADV0051,"Brooks, Lam and Hayes",Real Estate,Print_Heavy,Standard
+ADV0052,Walker LLC,Real Estate,Print_Heavy,Standard
+ADV0053,Chapman and Sons,Real Estate,Print_Heavy,Standard
+ADV0054,"Robinson, Jones and Welch",real estate,Print_Heavy,Budget
+ADV0055,Jones Inc,Real Estate,Print_Heavy,Standard
+ADV0056,Jones-Young,Real Estate,Print_Heavy,Standard
+ADV0057,"Washington, Ryan and Cummings",Real Estate,Print_Heavy,Premium
+ADV0058,"Johnston, Sanchez and Kennedy",Real Estate,Print_Heavy,Standard
+ADV0059,Lee-Davis,Real Estate,Print_Heavy,Premium
+ADV0060,Gomez-Jenkins,Real Estate,Print_Heavy,Standard
+ADV0061,"Brown, Valdez and Lucas",FMCG,Mixed,Budget
+ADV0062,Powell LLC,FMCG,Mixed,Standard
+ADV0063,Wright and Sons,FMCG,Mixed,Standard
+ADV0064,"West, Henderson and Ramirez",FMCG,Mixed,Standard
+ADV0065,Baxter Inc,FMCG,Mixed,Budget
+ADV0066,Morton-Chase,FMCG,Mixed,Standard
+ADV0067,Williams PLC,FMCG,Mixed,Standard
+ADV0068,Novak and Sons,FMCG,Mixed,Premium
+ADV0069,Russell Group,FMCG,Mixed,Standard
+ADV0070,Hancock Inc,FMCG,Mixed,Standard
+ADV0071,Gray Group,fmcg,Mixed,Standard
+ADV0072,House-Glover,FMCG,Mixed,Budget
+ADV0073,Henderson-Bernard,FMCG,Mixed,Budget
+ADV0074,"Stanley, Tucker and Lee",FMCG,Mixed,Standard
+ADV0075,Novak PLC,FMCG,Mixed,Standard
+ADV0076,"Daniels, Adkins and Brown",Automotive,Print_Heavy,Standard
+ADV0077,"Woods, Calhoun and Schmidt",Automotive,Print_Heavy,Budget
+ADV0078,Yu Inc,Automotive,Print_Heavy,Standard
+ADV0079,Jones Inc,Automotive,Print_Heavy,Standard
+ADV0080,"Hensley, Powell and David",Automotive,Print_Heavy,Standard
+ADV0081,"Sanchez, Wheeler and Harvey",Automotive,Print_Heavy,Standard
+ADV0082,Sandoval-Cunningham,Automotive,Print_Heavy,Standard
+ADV0083,Donovan-Harris,Automotive,Print_Heavy,Standard
+ADV0084,"Edwards, Baker and Anderson",automotive,Print_Heavy,Budget
+ADV0085,"Evans, Stewart and Walton",Automotive,Print_Heavy,Standard
+ADV0086,Smith PLC,Healthcare,Mixed,Standard
+ADV0087,"Ferrell, Jones and Lewis",Healthcare,Mixed,Budget
+ADV0088,Anderson-Bailey,Healthcare,Mixed,Standard
+ADV0089,Suarez LLC,Healthcare,Mixed,Premium
+ADV0090,Moore-Bass,Healthcare,Mixed,Premium
+ADV0091,"Turner, Riggs and Roman",Education,Digital_Heavy,Premium
+ADV0092,"Smith, Montoya and Evans",Education,Digital_Heavy,Standard
+ADV0093,"Garcia, Humphrey and Baker",Education,Digital_Heavy,Standard
+ADV0094,Newton and Sons,Education,Digital_Heavy,Standard
+ADV0095,Campbell-Clark,Education,Digital_Heavy,Premium
+ADV0096,Harris-Walters,Retail,Mixed,Standard
+ADV0097,Wagner-King,Retail,Mixed,Budget
+ADV0098,Davis Group,Retail,Mixed,Standard
+ADV0099,Williams-Cook,Retail,Mixed,Budget
+ADV0100,Walsh LLC,Retail,Mixed,Budget

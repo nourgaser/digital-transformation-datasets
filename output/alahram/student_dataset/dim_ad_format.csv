@@ -1,0 +1,13 @@
+format_id,format_name,medium,base_rate_egp,rate_basis
+AF01,Full Page,Print,55000,per insertion
+AF02,Half Page,Print,30000,per insertion
+AF03,Quarter Page,Print,16000,per insertion
+AF04,Front Page Strip,Print,78000,per insertion
+AF05,Classified,Print,650,per insertion
+AF06,Display Banner,Digital,6500,per day
+AF07,Leaderboard,Digital,9500,per day
+AF08,Video Pre-roll 15s,digital,5000,per day
+AF09,Video Pre-roll 30s,digital,8000,per day
+AF10,Sponsored Article,Digital,20000,per placement
+AF11,Newsletter Banner,Digital,5500,per placement
+AF12,Social Media Boost,Digital,4000,per day
