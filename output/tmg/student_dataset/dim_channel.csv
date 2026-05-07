@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_type
+CH01,TMG Sales Center,Direct
+CH02,Broker,Indirect
+CH03,TMG Website,Digital
+CH04,TMG Life App,Digital
+CH05,Referral,Indirect

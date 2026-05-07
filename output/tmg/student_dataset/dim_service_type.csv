@@ -1,0 +1,11 @@
+service_type_id,service_name,service_category,avg_amount_egp,is_payment
+ST01,Electricity Payment,Utility,650,True
+ST02,Water Payment,Utility,200,True
+ST03,Internet Payment,Utility,450,True
+ST04,Gas Payment,Utility,180,True
+ST05,Maintenance Request,Maintenance,0,False
+ST06,Security QR Access,Security,0,False
+ST07,Club Booking,Recreation,300,True
+ST08,Gym Membership,Recreation,1200,True
+ST09,Concierge Request,Concierge,0,False
+ST10,Internal Transport,Transport,100,True

@@ -45,6 +45,7 @@ generator_template.py        # starter template for new generators
 | Banque du Caire | `banque_du_caire` | `generate_banque_du_caire.py` |
 | Misr Insurance Company | `misr_insurance` | `generate_misr_insurance.py` |
 | SODIC | `sodic` | `generate_sodic.py` |
+| Talaat Moustafa Group | `tmg` | `generate_tmg.py` |
 | Misr Spinning and Weaving | `msw` | `generate_msw.py` |
 
 ## Key task when a new team arrives

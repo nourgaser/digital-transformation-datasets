@@ -1,0 +1,11 @@
+project_id,project_name,location,sub_area,project_type,launch_year,total_units,delivery_status
+PJ01,Madinaty,East Cairo,New Cairo,Integrated City,2006,4500,Delivered+Ongoing
+PJ02,Al Rehab,East Cairo,New Cairo,Integrated City,1997,2800,Delivered
+PJ03,Celia,East Cairo,New Capital,Residential,2020,1500,Under Construction
+PJ04,Privado,East Cairo,Madinaty,Residential,2018,800,Delivered+Ongoing
+PJ05,Mayfair,East Cairo,Madinaty,Residential,2019,600,Delivered+Ongoing
+PJ06,Noor City,East Cairo,New Capital Axis,Smart City,2022,3000,Early Stage
+PJ07,The Spine,East Cairo,New Cairo,Commercial,2024,400,Early Stage
+PJ08,Four Seasons Cairo,Greater Cairo,Garden City,Hospitality ,2002,100,Delivered
+PJ09,Four Seasons Alex,Alexandria,San Stefano,Hospitality ,2007,120,Delivered
+PJ10,Four Seasons Sharm,South Sinai,Sharm El Sheikh,Hospitality ,2002,140,Delivered
